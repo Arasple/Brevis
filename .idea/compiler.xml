@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="Brevis" target="18" />
+      <module name="Brevis.buildSrc" target="18" />
+      <module name="Brevis.buildSrc.main" target="18" />
+      <module name="Brevis.buildSrc.test" target="18" />
+      <module name="Brevis.main" target="18" />
+      <module name="Brevis.test" target="18" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

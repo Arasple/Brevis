@@ -1,0 +1,6 @@
+include("plugin")
+include("project:common")
+include("project:common-impl")
+include("project:module-compats")
+include("project:module-metrics")
+include("project:module-taboolib-generate")
